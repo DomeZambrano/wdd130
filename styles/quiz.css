@@ -32,3 +32,6 @@ span {
     color: blue;
     font-weight: bold;
 }
+.width-100 {
+    width: 100%;
+}
